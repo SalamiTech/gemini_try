@@ -1,7 +1,7 @@
 
 # Build with Gemini 
 
-Welcome to **Prompt Kofi Gemini**, a Flutter application that leverages the power of Gemini and generative AI to offer users a unique and innovative experience. This project is designed to showcase the integration of generative AI capabilities within a Flutter app, providing a glimpse into the future of interactive applications.
+Welcome to **Prompt with Kofi Gemini**, a Flutter application that leverages the power of Gemini and generative AI to offer users a unique and innovative experience. This project is designed to showcase the integration of generative AI capabilities within a Flutter app, providing a glimpse into the future of interactive applications.
 
 ## App Screenshots
 
