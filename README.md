@@ -1,6 +1,15 @@
-# Gemini Try
 
-Welcome to Gemini Try, a cutting-edge Flutter application that leverages the power of Gemini and generative AI to offer users a unique and innovative experience. This project is designed to showcase the integration of generative AI capabilities within a Flutter app, providing a glimpse into the future of interactive applications.
+# Build with Gemini 
+
+Welcome to **Prompt Kofi Gemini**, a Flutter application that leverages the power of Gemini and generative AI to offer users a unique and innovative experience. This project is designed to showcase the integration of generative AI capabilities within a Flutter app, providing a glimpse into the future of interactive applications.
+
+## App Screenshots
+
+<p align="center">
+  <img src="https://github.com/SalamiTech/gemini_try/assets/92346444/db418c7b-e15d-4a4b-a863-7bd1ab483e0a" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/SalamiTech/gemini_try/assets/92346444/be8c5260-caf4-4683-a003-797ee7269df4" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/SalamiTech/gemini_try/assets/92346444/f6a625dd-c375-47f4-8492-1fc3ec0e142a" alt="Screenshot 3" width="200"/>
+</p>
 
 ## Features
 
