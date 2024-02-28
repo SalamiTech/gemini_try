@@ -53,5 +53,5 @@ We welcome contributions to Gemini Try! If you have suggestions for improvements
 
 ## License
 
-Gemini Try is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**Prompt with Kofi Gemini** is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
